@@ -12,10 +12,10 @@ Ultimately not a lot we can do about this (hope you can get to questions via use
 
 Further cleaning:
 
-  # for ideas.okfn.org
-  rm -Rf vote accept_answer answer_link ideas/asked-by mark_favorite markdown_help
-  # for getthedata.org
-  rm -Rf vote accept_answer answer_link questions/asked-by mark_favorite markdown_help
+    # for ideas.okfn.org
+    rm -Rf vote accept_answer answer_link ideas/asked-by mark_favorite markdown_help
+    # for getthedata.org
+    rm -Rf vote accept_answer answer_link questions/asked-by mark_favorite markdown_help
 
 Also:
 
